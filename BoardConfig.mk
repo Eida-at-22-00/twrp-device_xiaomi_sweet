@@ -179,4 +179,8 @@ TW_HAS_MTP := true
 # VINTF
 PRODUCT_ENFORCE_VINTF_MANIFEST := true
 
+# Init
+TARGET_INIT_VENDOR_LIB := libinit_sweet
+TARGET_RECOVERY_DEVICE_MODULES := libinit_sweet
+
 TW_DEVICE_VERSION := eidawon
