@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_sweet.mk
+    $(LOCAL_DIR)/pb_sweet.mk
